@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  background-color: lavender;
+}
+
+.statistics {
+  height: 170px;
+  width: 350px;
+  border: 2px solid gray;
+  border-radius: 15px;
+  font-size: 1.2em;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+}
+
+.statistics-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  width: 35em;
+  padding: 10px;
+}
